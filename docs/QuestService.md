@@ -9,5 +9,7 @@ Internal Actions List:
 > SetCurrentQuestAsCompleted (Player, QuestID)  
 > IncrementCurrentPlayerQuest (Player, Number)  
 > ResetCurrentPlayerQuest (Player)  
-> CheckIsQuestFinished (Player)  
+> RemoveCurrentPlayerQuest (Player)  
+> AbandonCurrentPlayerQuest (Player)  
+> CheckIsQuestFinished (Player) (references CurrentQuest, not argumented quest)  
 > CheckIfQuestIsCompleted (Player, QuestID)  
