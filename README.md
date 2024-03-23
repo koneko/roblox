@@ -1,3 +1,8 @@
-# "portfolio"
-hello, you are here cause i sent you this link to show you my roblox "portfolio"  
-ill make it soon :3
+# koneko's roblox "findings" and links to them
+ - [portfolio](portfolio.md)  
+  
+ - [errors](errors.md)  
+  
+ - [cframes](cframes.md)  
+
+ - [lua files](https://github.com/search?q=repo%3Akoneko%2Froblox++language%3ALua&type=code)
