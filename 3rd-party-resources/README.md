@@ -1,3 +1,3 @@
 # Third-Party Resources
 
-Folders named after GitHub users, such as **[./byteveil](./byteveil/)**, contain Lua code written by that user.
+Folders other than the [developer-forum](developer-forum) folder are contributed on [GitHub](https://github.com/koneko/roblox) by fellow users.
